@@ -5,6 +5,8 @@ model that never took part writes the verdict. Runs across eight providers — O
 Groq, Mistral, Cerebras, Cloudflare Workers AI, Kilo, Ollama Cloud, and a local Ollama
 daemon — so one vendor's rate limit cannot stall a run. Zero dependencies, stdlib only.
 
+![Counterpoint](docs/counterpoint.png)
+
 ## Setup
 
 ```bash
