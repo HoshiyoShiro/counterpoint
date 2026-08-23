@@ -251,3 +251,7 @@ chat-completions shape needs nothing else.
 `CloudflareProvider` is the worked example of a provider that does not fit cleanly: its
 `base` is a property because the URL embeds the account id, `available` requires two env
 vars, and `list_models` is overridden because the catalogue lives at a non-OpenAI path.
+
+## License
+
+[MIT](LICENSE).
